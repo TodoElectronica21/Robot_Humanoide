@@ -7,7 +7,7 @@ Este es Paco, mirar que guapo es:
 ![alt text](https://github.com/TodoElectronica21/Robot_Humanoide/blob/master/paco.png)
 
 Los códigos de ejemplo y algunas librerías necesarias las tenéis en las carpetas de Codigo y Librerias de este directorio raíz.
-![alt text](https://github.com/TodoElectronica21/Robot_Humanoide/Codigo)
+![alt text](Robot_Humanoide/Codigo)
 
 Os podéis descargar más información desde la web de SunFounder: https://www.sunfounder.com/learn/category/DIY-4-DOF-Robot-Kit-Sloth.html
 
