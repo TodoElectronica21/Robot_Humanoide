@@ -10,8 +10,8 @@ Este es Paco, mirar que guapo es:
 
 Aquí tenéis los códigos de ejemplo y algunas librerías necesarias:
 
-<pre>[Códigos](https://github.com/TodoElectronica21/Robot_Humanoide/tree/master/Codigo)<br>
-<pre>[Librerías](https://github.com/TodoElectronica21/Robot_Humanoide/tree/master/Librerias)
+<pre>[Códigos](https://github.com/TodoElectronica21/Robot_Humanoide/tree/master/Codigo)</pre><br>
+<pre>[Librerías](https://github.com/TodoElectronica21/Robot_Humanoide/tree/master/Librerias)</pre>
 
 Os podéis descargar más información desde la web de SunFounder: <br>
 https://www.sunfounder.com/learn/category/DIY-4-DOF-Robot-Kit-Sloth.html
