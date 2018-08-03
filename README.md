@@ -14,7 +14,7 @@ Aquí tenéis los códigos de ejemplo y algunas librerías necesarias:
 
 [Librerías](https://github.com/TodoElectronica21/Robot_Humanoide/tree/master/Librerias)
 
-Os podéis descargar más información desde la web de SunFounder: 
+Os podéis descargar más información desde la web de SunFounder: <br>
 https://www.sunfounder.com/learn/category/DIY-4-DOF-Robot-Kit-Sloth.html
 
 Suerte y a disfrutar con el bicho!!
