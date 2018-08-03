@@ -8,6 +8,8 @@ Este es Paco, mirar que guapo es .... =)
   <img width="300" height="350" src="https://github.com/TodoElectronica21/Robot_Humanoide/blob/master/paco.png">
 </p>
 
+# Documentación
+
 Aquí tenéis los códigos de ejemplo y algunas librerías necesarias:
 
 [   -Códigos](https://github.com/TodoElectronica21/Robot_Humanoide/tree/master/Codigo)<br>
@@ -16,5 +18,5 @@ Aquí tenéis los códigos de ejemplo y algunas librerías necesarias:
 Os podéis descargar más información desde la web de SunFounder: <br>
 https://www.sunfounder.com/learn/category/DIY-4-DOF-Robot-Kit-Sloth.html
 
-Suerte y a disfrutar con el bicho!!
+
 
