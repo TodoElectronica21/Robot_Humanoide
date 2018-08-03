@@ -6,6 +6,7 @@ Este es Paco, mirar que guapo es:
 
 <p align="center">
   ![alt text](https://github.com/TodoElectronica21/Robot_Humanoide/blob/master/paco.png)
+  <img src="https://github.com/TodoElectronica21/Robot_Humanoide/blob/master/paco.png">
 </p>
 
 Aquí tenéis los códigos de ejemplo y algunas librerías necesarias:
