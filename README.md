@@ -4,7 +4,9 @@ Siguiendo el manual en pdf DIY 4-DOF Robot Kit User Manual que encontráis en es
 
 Este es Paco, mirar que guapo es:
 
-<p align="center">![alt text](https://github.com/TodoElectronica21/Robot_Humanoide/blob/master/paco.png)</p>
+<p align="center">
+  ![alt text](https://github.com/TodoElectronica21/Robot_Humanoide/blob/master/paco.png)
+</p>
 
 Aquí tenéis los códigos de ejemplo y algunas librerías necesarias:
 
