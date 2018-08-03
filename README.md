@@ -2,7 +2,7 @@
 
 Siguiendo el manual en pdf DIY 4-DOF Robot Kit User Manual que encontráis en este directorio y ayundándoos del código y las librerías que os dejo es muy sencillo de armar y programar.
 
-Este es Paco, mirar que guapo es:
+Este es Paco, mirar que guapo es .... =)
 
 <p align="left">
   <img width="300" height="350" src="https://github.com/TodoElectronica21/Robot_Humanoide/blob/master/paco.png">
