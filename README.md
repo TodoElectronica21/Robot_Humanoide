@@ -10,8 +10,7 @@ Este es Paco, mirar que guapo es:
 
 Aquí tenéis los códigos de ejemplo y algunas librerías necesarias:
 
-[Códigos](https://github.com/TodoElectronica21/Robot_Humanoide/tree/master/Codigo)
-
+[Códigos](https://github.com/TodoElectronica21/Robot_Humanoide/tree/master/Codigo)<br>
 [Librerías](https://github.com/TodoElectronica21/Robot_Humanoide/tree/master/Librerias)
 
 Os podéis descargar más información desde la web de SunFounder: <br>
