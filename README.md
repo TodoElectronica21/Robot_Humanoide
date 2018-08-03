@@ -1,4 +1,4 @@
-# Robot_Humanoide
+# Robot Humanoide
 
 Siguiendo el manual en pdf DIY 4-DOF Robot Kit User Manual que encontráis en este directorio y ayundándoos del código y las librerías que os dejo es muy sencillo de armar y programar.
 
